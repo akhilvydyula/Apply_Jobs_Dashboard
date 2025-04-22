@@ -13,8 +13,8 @@ from webdriver_manager.chrome import ChromeDriverManager
 from datetime import datetime
 
 # ------------------------------ CONFIG ------------------------------
-USER_EMAIL = "akhilvydyula1111@gmail.com"
-USER_PASSWORD = "Yuvrajsigh@1"
+USER_EMAIL = "akhil.com"
+USER_PASSWORD = "Akh@1"
 SEARCH_KEYWORDS = "Data Engineer"
 
 # ---------------------------- LOCATORS ------------------------------
